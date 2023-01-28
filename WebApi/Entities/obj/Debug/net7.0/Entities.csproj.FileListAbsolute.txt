@@ -1,0 +1,14 @@
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Entities\bin\Debug\net7.0\Entities.deps.json
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Entities\bin\Debug\net7.0\Entities.dll
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Entities\bin\Debug\net7.0\Entities.pdb
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.dll
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Entities\obj\Debug\net7.0\refint\Entities.dll
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.pdb
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Entities\obj\Debug\net7.0\ref\Entities.dll
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Entities\bin\Debug\net7.0\Entities.runtimeconfig.json
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.genruntimeconfig.cache

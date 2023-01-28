@@ -1,0 +1,15 @@
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "School", "School\School.csproj", "{C60CC10B-45F1-45C3-BB81-003F98208C1B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contracts", "E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Contracts\Contracts.csproj", "{90E884A9-131C-409C-87D4-C20B5BF26F2A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Entities\Entities.csproj", "{6799BCCD-1BC8-47D0-BD25-26CB81088157}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Repository\Repository.csproj", "{65470634-98F1-43B5-858D-91BCE86C870A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggerService", "E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\LoggerService\LoggerService.csproj", "{F6AC110A-0DD0-4FD4-BAB7-6E3DAF626AA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C60CC10B-45F1-45C3-BB81-003F98208C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60CC10B-45F1-45C3-BB81-003F98208C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60CC10B-45F1-45C3-BB81-003F98208C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60CC10B-45F1-45C3-BB81-003F98208C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E884A9-131C-409C-87D4-C20B5BF26F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E884A9-131C-409C-87D4-C20B5BF26F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E884A9-131C-409C-87D4-C20B5BF26F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E884A9-131C-409C-87D4-C20B5BF26F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6799BCCD-1BC8-47D0-BD25-26CB81088157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6799BCCD-1BC8-47D0-BD25-26CB81088157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6799BCCD-1BC8-47D0-BD25-26CB81088157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6799BCCD-1BC8-47D0-BD25-26CB81088157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65470634-98F1-43B5-858D-91BCE86C870A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65470634-98F1-43B5-858D-91BCE86C870A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65470634-98F1-43B5-858D-91BCE86C870A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65470634-98F1-43B5-858D-91BCE86C870A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6AC110A-0DD0-4FD4-BAB7-6E3DAF626AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AC110A-0DD0-4FD4-BAB7-6E3DAF626AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AC110A-0DD0-4FD4-BAB7-6E3DAF626AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AC110A-0DD0-4FD4-BAB7-6E3DAF626AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47556166-2181-4B15-8504-4BB6D7707DD3}
+	EndGlobalSection
+EndGlobal

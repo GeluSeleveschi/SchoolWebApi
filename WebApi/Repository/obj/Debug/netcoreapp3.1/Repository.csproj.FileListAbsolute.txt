@@ -1,0 +1,15 @@
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.pdb

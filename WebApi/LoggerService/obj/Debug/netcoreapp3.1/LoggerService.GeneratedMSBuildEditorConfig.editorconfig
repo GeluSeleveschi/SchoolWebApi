@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = LoggerService
+build_property.ProjectDir = E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\LoggerService\

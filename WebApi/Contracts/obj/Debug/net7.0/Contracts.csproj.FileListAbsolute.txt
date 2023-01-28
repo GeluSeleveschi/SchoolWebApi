@@ -1,0 +1,15 @@
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Contracts\bin\Debug\net7.0\Contracts.deps.json
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Contracts\bin\Debug\net7.0\Contracts.dll
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Contracts\bin\Debug\net7.0\Contracts.pdb
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Contracts\bin\Debug\net7.0\Entities.dll
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Contracts\bin\Debug\net7.0\Entities.pdb
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.csproj.AssemblyReference.cache
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfoInputs.cache
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfo.cs
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.csproj.CoreCompileInputs.cache
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.csproj.CopyComplete
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.dll
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Contracts\obj\Debug\net7.0\refint\Contracts.dll
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.pdb
+E:\identity-server-4-aspnetcore-identityserver4-ui-webapi-basic-security\End\Web Api\CompanyEmployees\Contracts\obj\Debug\net7.0\ref\Contracts.dll

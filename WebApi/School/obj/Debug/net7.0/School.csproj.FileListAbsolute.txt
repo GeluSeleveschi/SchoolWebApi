@@ -1,0 +1,192 @@
+E:\PP\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+E:\PP\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+E:\PP\WebApplication1\WebApplication1\bin\Debug\net7.0\School.exe
+E:\PP\WebApplication1\WebApplication1\bin\Debug\net7.0\School.deps.json
+E:\PP\WebApplication1\WebApplication1\bin\Debug\net7.0\School.runtimeconfig.json
+E:\PP\WebApplication1\WebApplication1\bin\Debug\net7.0\School.dll
+E:\PP\WebApplication1\WebApplication1\bin\Debug\net7.0\School.pdb
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\School.csproj.AssemblyReference.cache
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\School.GeneratedMSBuildEditorConfig.editorconfig
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\School.AssemblyInfoInputs.cache
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\School.AssemblyInfo.cs
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\School.csproj.CoreCompileInputs.cache
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\School.MvcApplicationPartsAssemblyInfo.cache
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.School.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.School.props
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.School.props
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.School.props
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\School.styles.css
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\School.dll
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\School.dll
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\School.pdb
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\School.genruntimeconfig.cache
+E:\PP\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\School.dll
+E:\PP\School\School\bin\Debug\net7.0\appsettings.Development.json
+E:\PP\School\School\bin\Debug\net7.0\appsettings.json
+E:\PP\School\School\bin\Debug\net7.0\School.exe
+E:\PP\School\School\bin\Debug\net7.0\School.deps.json
+E:\PP\School\School\bin\Debug\net7.0\School.runtimeconfig.json
+E:\PP\School\School\bin\Debug\net7.0\School.dll
+E:\PP\School\School\bin\Debug\net7.0\School.pdb
+E:\PP\School\School\obj\Debug\net7.0\School.csproj.AssemblyReference.cache
+E:\PP\School\School\obj\Debug\net7.0\School.GeneratedMSBuildEditorConfig.editorconfig
+E:\PP\School\School\obj\Debug\net7.0\School.AssemblyInfoInputs.cache
+E:\PP\School\School\obj\Debug\net7.0\School.AssemblyInfo.cs
+E:\PP\School\School\obj\Debug\net7.0\School.csproj.CoreCompileInputs.cache
+E:\PP\School\School\obj\Debug\net7.0\School.MvcApplicationPartsAssemblyInfo.cache
+E:\PP\School\School\obj\Debug\net7.0\staticwebassets\msbuild.School.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PP\School\School\obj\Debug\net7.0\staticwebassets\msbuild.build.School.props
+E:\PP\School\School\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.School.props
+E:\PP\School\School\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.School.props
+E:\PP\School\School\obj\Debug\net7.0\staticwebassets.pack.json
+E:\PP\School\School\obj\Debug\net7.0\staticwebassets.build.json
+E:\PP\School\School\obj\Debug\net7.0\staticwebassets.development.json
+E:\PP\School\School\obj\Debug\net7.0\scopedcss\bundle\School.styles.css
+E:\PP\School\School\obj\Debug\net7.0\School.dll
+E:\PP\School\School\obj\Debug\net7.0\refint\School.dll
+E:\PP\School\School\obj\Debug\net7.0\School.pdb
+E:\PP\School\School\obj\Debug\net7.0\School.genruntimeconfig.cache
+E:\PP\School\School\obj\Debug\net7.0\ref\School.dll
+E:\PP\School\School\bin\Debug\net7.0\AutoMapper.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PP\School\School\bin\Debug\net7.0\NLog.dll
+E:\PP\School\School\bin\Debug\net7.0\NLog.Extensions.Logging.dll
+E:\PP\School\School\bin\Debug\net7.0\Contracts.dll
+E:\PP\School\School\bin\Debug\net7.0\Entities.dll
+E:\PP\School\School\bin\Debug\net7.0\LoggerService.dll
+E:\PP\School\School\bin\Debug\net7.0\Repository.dll
+E:\PP\School\School\bin\Debug\net7.0\LoggerService.pdb
+E:\PP\School\School\bin\Debug\net7.0\Repository.pdb
+E:\PP\School\School\bin\Debug\net7.0\Contracts.pdb
+E:\PP\School\School\bin\Debug\net7.0\Entities.pdb
+E:\PP\School\School\obj\Debug\net7.0\School.csproj.CopyComplete
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\PP\School\School\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PP\School\School\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\PP\School\School\bin\Debug\net7.0\Azure.Core.dll
+E:\PP\School\School\bin\Debug\net7.0\Azure.Identity.dll
+E:\PP\School\School\bin\Debug\net7.0\Humanizer.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\PP\School\School\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\PP\School\School\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\PP\School\School\bin\Debug\net7.0\System.CodeDom.dll
+E:\PP\School\School\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\PP\School\School\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\PP\School\School\bin\Debug\net7.0\System.Memory.Data.dll
+E:\PP\School\School\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\PP\School\School\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\PP\School\School\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\PP\School\School\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\PP\School\School\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PP\School\School\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PP\School\School\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PP\School\School\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PP\School\School\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PP\School\School\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PP\School\School\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\PP\School\School\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PP\School\School\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PP\School\School\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\PP\School\School\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PP\School\School\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\School.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\refint\School.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\School.pdb
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\School.csproj.AssemblyReference.cache
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\School.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\School.AssemblyInfoInputs.cache
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\School.AssemblyInfo.cs
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\School.csproj.CoreCompileInputs.cache
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\School.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\appsettings.Development.json
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\appsettings.json
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\School.exe
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\School.deps.json
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\School.runtimeconfig.json
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\School.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\School.pdb
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\AutoMapper.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Azure.Core.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Azure.Identity.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Humanizer.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\NLog.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\NLog.Extensions.Logging.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\System.CodeDom.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Contracts.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Entities.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\LoggerService.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Repository.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Contracts.pdb
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\LoggerService.pdb
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Repository.pdb
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\bin\Debug\net7.0\Entities.pdb
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\staticwebassets\msbuild.School.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\staticwebassets\msbuild.build.School.props
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.School.props
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.School.props
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\staticwebassets.build.json
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\staticwebassets.development.json
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\scopedcss\bundle\School.styles.css
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\School.csproj.CopyComplete
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\School.genruntimeconfig.cache
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\WebApi\School\obj\Debug\net7.0\ref\School.dll
